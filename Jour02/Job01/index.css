@@ -1,0 +1,14 @@
+.user {
+    cursor: pointer;
+    padding: 10px;
+    margin: 5px;
+    font-size: 18px;
+}
+
+.active {
+    color: green;
+}
+
+.inactive {
+    color: red;
+}
